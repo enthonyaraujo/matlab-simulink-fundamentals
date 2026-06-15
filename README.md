@@ -1112,7 +1112,7 @@ title('Resposta em malha fechada');
 
 ## Observações importantes
 
-1. Os coeficientes dos polinômios devem ser escritos em ordem decrescente das potências de $s$.
+1. Os coeficientes dos polinômios devem ser escritos em ordem decrescente das potências de $s$ .
 2. Coeficientes ausentes devem ser representados por zero.
 3. `*`, `/` e `^` representam operações matriciais.
 4. `.*`, `./` e `.^` representam operações elemento a elemento.
